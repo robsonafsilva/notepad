@@ -53,10 +53,10 @@ social-network-links:
   email: "robsonap@outlook.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: robsonafsilva
-  whatsapp: +55 11 98771-8781
   linkedin: robsonafsilva
-  mastodon: ursal.zone/@robsonap
+
   
+#  whatsapp: +55 11 0000-0000
 #  mastodon: instance.url/@username   
 #  twitter: robsonap
 #  patreon: DeanAttali
