@@ -1,0 +1,21 @@
+# project
+_site
+.sass-cache
+.vagrant
+
+# general
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+Gemfile
+Gemfile.lock
+
+beautiful-jekyll-theme-*.gem
+
+CHANGELOG.md
+CNAME
+LICENSE
+README.md
+screenshot.png
+docs/
